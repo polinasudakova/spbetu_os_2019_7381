@@ -59,7 +59,7 @@ git checkout -b efremov_lab1
 
 ## Таблица сдачи и приема работ студентов
 
-| ФамилияИО   | GitHub-аккаунт     | lab1  | lab2  | lab3  | lab4  | lab5  | lab6  | lab7  |
+| FirstName   | GitHub-аккаунт     | lab1  | lab2  | lab3  | lab4  | lab5  | lab6  | lab7  |
 | ----------- | ------------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Adamov      | ?                  |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
 | Agenilok    | ?                  |   -   |   -   |   -   |   -   |   -   |   -   |   -   |
